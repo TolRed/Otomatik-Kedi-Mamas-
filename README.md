@@ -5,8 +5,6 @@ Tanıtım Video   https://www.youtube.com/watch?v=BKSIIpNDE5A&t=1s
 
 Android uygulama tanıtım video  https://www.youtube.com/watch?v=9CIYwC9Gy0U&t=46s
 
-![13
-](https://github.com/TolRed/Otomatik-Kedi-Mamas-/blob/master/13.jpg)
 
 Otomatik kedi maması evimizdeki küçük yaramazların daima taze mama yiyebilmesi ihtiyacından doğmuştur. 
 Gün içerisinde iş , okul ve benzeri nedenlerden dolayı evde bulunamayız , küçük dostlarımız için sabah tazelediğimiz mama zamanla bayatlayacaktır. 
