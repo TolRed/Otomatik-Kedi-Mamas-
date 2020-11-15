@@ -15,4 +15,7 @@ Cep telefonunuza indirebiliceğiniz Kedi Maması uygulaması ile hangi saatlerde
 Bundan sonrasında cihaz her gün sizin ayarladığınız zamanlarda minik dostumuza taze mama verecektir.
 Otomatik kedi mamasının dahili bataryası mevcuttur , bu sayede cihazı istediğiniz yerde kullanabilirsiniz. 
 
+Otomatik kedi mamasını kendiniz oluşturmak için tüm dosyalar klasörler içinde mevcuttur.
+
+
 
